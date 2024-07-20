@@ -5,4 +5,4 @@ example
 
 Работа с веткой develop
 
-Изменил файл из githup
+Изменил файл из github
